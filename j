@@ -1,0 +1,1 @@
+renovate/pnpm-9.x
